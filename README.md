@@ -6,6 +6,8 @@ It was used in the production of its plots and tables. The various .ipynb experi
 
 Various experiments are structured as .ipynb files, whilst the .pkl normalisation files are needed to standardise the input data as described. The Dependencies directory contains the supporting functions used throughout the experiments.
 
+*Note: I have improved this code for public sharing since it was first used to gather the data in the paper; therefore, although seeds are the same some computational differences may vary. However, it should, within error, reproduce comparable results to those shared.*
+
 ## Experiment Zero - Neuroadaptive Timing
 ### (Sec. 3, paragraph 3)
 Times baseline training and neuroadaptive operations on CIFAR-10 to compare computational costs. There is one primary file
