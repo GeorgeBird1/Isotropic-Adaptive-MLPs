@@ -1,6 +1,8 @@
 # Code Repository for "Isotropic Activation Functions Enable Deindividuated Neurons and Adaptive Topologies"
 
-This repository contains all code for replication of all experiments within the paper.
+This code implements the paper "Isotropic Activation Functions Enable Deindividuated Neurons and Adaptive Topologies."
+
+It was used in the production of its plots and tables. The various .ipynb experiments correspond to those of the paper; the Dependencies folder contains the important adaptive code, and the .pkl files are just for use by the code.
 
 Various experiments are structured as .ipynb files, whilst the .pkl normalisation files are needed to standardise the input data as described. The Dependencies directory contains the supporting functions used throughout the experiments.
 
